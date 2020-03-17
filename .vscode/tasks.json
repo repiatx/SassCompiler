@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "dart2native",
+            "args": ["main.dart","-o","build/scss.exe"],
+            "group": {
+                "isDefault": true,
+                "kind":"build"
+            }
+
+        }
+    ]
+}

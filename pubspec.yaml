@@ -1,0 +1,4 @@
+name: sass_compiler
+dev_dependencies:
+  sass: ^1.26.3
+  ansicolor: ^1.0.2
