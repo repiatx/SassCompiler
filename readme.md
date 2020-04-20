@@ -11,7 +11,7 @@ It prints help window
 
 > `scss 'inputFilePath' 'outputFilePath'`
 
-**intpuFilePath**: Scss or Sass file path. Which will be compiled. exp: ***stlye.scss***, ***style.sass***
+**intpuFilePath**: Scss or Sass file path. Which will be compiled. exp: ***style.scss***, ***style.sass***
 
 **outputFilePath**: Scss or Sass file path. Which will be compiled. exp: ***style.css***
 
