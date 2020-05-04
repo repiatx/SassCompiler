@@ -1,4 +1,4 @@
-[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![GitHub stars](https://img.shields.io/github/stars/repiatx/SassCompiler)](https://github.com/repiatx/SassCompiler/stargazers)
 # SassCompiler
 
 SassCompiler is dart sass , scss compiler. What it does? it actually compiles **scss** file to **css**
