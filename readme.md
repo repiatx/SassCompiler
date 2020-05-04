@@ -1,4 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/repiatx/SassCompiler)](https://github.com/repiatx/SassCompiler/stargazers)
+[![GitHub license](https://img.shields.io/github/license/repiatx/SassCompiler)](https://github.com/repiatx/SassCompiler/blob/master/LICENSE)
 # SassCompiler
 
 SassCompiler is dart sass , scss compiler. What it does? it actually compiles **scss** file to **css**
