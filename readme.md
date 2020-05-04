@@ -1,4 +1,4 @@
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 # SassCompiler
 
 SassCompiler is dart sass , scss compiler. What it does? it actually compiles **scss** file to **css**
